@@ -30,4 +30,5 @@ A partir dos dados analisados, é possível observar que:
 ## 📌 Autor
 
 Jefferson Fagundes – Analista de Dados Jr. em transição de carreira  
-Contato: [Seu e-mail] | [LinkedIn](https://www.linkedin.com)
+Contato: [Jesk8boy@outlook.com] | [LinkedIn](https://www.linkedin.com/in/jeffersonfagundes)
+atualização de contato no README.
