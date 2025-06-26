@@ -31,4 +31,4 @@ A partir dos dados analisados, é possível observar que:
 
 Jefferson Fagundes – Analista de Dados Jr. em transição de carreira  
 Contato: [Jesk8boy@outlook.com] | [LinkedIn](https://www.linkedin.com/in/jeffersonfagundes)
-atualização de contato no README.
+
